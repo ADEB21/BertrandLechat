@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Montserrat Black';
+    src: url('../fonts/Montserrat-Black.ttf') format('truetype');
+    font-weight: 900; /* Poids pour Montserrat Black */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Medium';
+    src: url('../fonts/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500; /* Poids pour Montserrat Medium */
+    font-style: normal;
+}
